@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Linijka
+Comment=Prosta aplikacja do mierzenia w milimetrach
+Exec=usr/share/ruler/ruler.py
+Icon=linijka.jpg
+Terminal=false
+Type=Application
+Categories=Utility;
